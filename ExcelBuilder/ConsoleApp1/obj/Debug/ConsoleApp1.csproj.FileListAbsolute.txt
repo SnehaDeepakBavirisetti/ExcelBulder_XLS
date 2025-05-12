@@ -1,0 +1,7 @@
+C:\Users\deepa\source\repos\ADM\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\deepa\source\repos\ADM\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\deepa\source\repos\ADM\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\deepa\source\repos\ADM\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\deepa\source\repos\ADM\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\deepa\source\repos\ADM\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\deepa\source\repos\ADM\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
